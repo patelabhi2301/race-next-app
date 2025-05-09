@@ -1,0 +1,85 @@
+{
+  "version": "3.73.29904.0",
+  "course_id": "6HIpJt2Yd22",
+  "title": "What do you see?",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5xeBcpRWpHT",
+      "title": "What do you see?",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6PSOfhNPOd7",
+      "title": "How to complete this activity ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5UjdkhM87WS",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5xjp1hNOlgD",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6ItYQA6TuE0",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5WC2fc1MSTI",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6fHxLUygn7M",
+      "title": "Activity Complete! ",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5zVmPXVJQT1",
+      "title": "Untitled Slide",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6K9PPUsBXyM",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6AP9XTCknba",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6botKLZIlDf",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6mFAUl7Jkcf",
+      "title": "MULTIPLE CHOICE",
+      "scene_index": "2.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 635
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
